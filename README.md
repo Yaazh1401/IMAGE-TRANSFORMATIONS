@@ -1,5 +1,6 @@
 # IMAGE-TRANSFORMATIONS
-
+## Name:Yaazhini S
+## Register no:212224230308
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
